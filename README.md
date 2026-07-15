@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="CodeWithAli Banner" width="100%" />
+</p>
+---
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Hamza;Python+Developer;Web+Scraping+Enthusiast;Automation+Learner;Welcome+to+CodeWithAli+%F0%9F%9A%80" />
@@ -128,5 +132,14 @@ I believe in learning by building projects instead of just watching tutorials.
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=malihamza56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+
+</div>
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malihamza56&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 
 </div>
