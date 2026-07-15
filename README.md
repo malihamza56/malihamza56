@@ -148,3 +148,19 @@ I believe in learning by building projects instead of just watching tutorials.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=malihamza56&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 
 </div>
+---
+## 🎯 Current Focus
+
+- 🔭 Building real-world Python projects
+- 🌱 Learning Selenium & REST APIs
+- 🕷️ Mastering Web Scraping
+- 🤝 Looking forward to Open Source contributions
+- 🎥 Creating programming content for **CodeWithAli**
+---
+<div align="center">
+
+### 💬 Developer Philosophy
+
+> **"Learning by building. Growing by sharing."**
+
+</div>
