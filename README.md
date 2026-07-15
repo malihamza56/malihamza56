@@ -135,7 +135,7 @@ I believe in learning by building projects instead of just watching tutorials.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=malihamza56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=malihamza56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 
 </div>
 ---
