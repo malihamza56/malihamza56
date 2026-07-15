@@ -149,6 +149,7 @@ I believe in learning by building projects instead of just watching tutorials.
 
 </div>
 ---
+
 ## 🎯 Current Focus
 
 - 🔭 Building real-world Python projects
